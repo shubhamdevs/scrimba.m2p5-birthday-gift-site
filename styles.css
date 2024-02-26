@@ -1,11 +1,9 @@
 body {
     text-align: center;
     font-family: "Happy Monkey", system-ui;
-    background-color: #a2d2ff;
+    background: linear-gradient(skyblue, pink);
     color: #ffffff;
-    /* display: flex;
-    flex-direction: column;
-    align-items: center; */
+    
 }
 
 #header {
@@ -90,4 +88,13 @@ h1, h2, h3, h4 {
 
 #gift-img-cheers:hover {
     background-image: url("cheers.gif");
+}
+
+.footer {
+    margin: 40px auto 20px auto;
+    font-style: italic;
+}
+
+a {
+   color: white; 
 }
