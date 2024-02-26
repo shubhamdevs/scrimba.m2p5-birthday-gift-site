@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+}
+
+#main-img {
+    width: 100px;
+    height: 100px;
+}
