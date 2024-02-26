@@ -64,6 +64,30 @@ h1, h2, h3, h4 {
     background-size: cover;
 }
 
-.gift-img:hover {
+.cheers {
+    height: 200px;
+}
+
+#gift-img-happy:hover {
     background-image: url("happy.gif");
+}
+
+#gift-img-hot:hover {
+    background-image: url("hot.gif");
+}
+
+#gift-img-genius:hover {
+    background-image: url("genius.gif");
+}
+
+#gift-img-badass:hover {
+    background-image: url("badass.gif");
+}
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+#gift-img-cheers:hover {
+    background-image: url("cheers.gif");
 }
